@@ -9,4 +9,6 @@ This project aims to provide a comprehensive Python interpreter capable of execu
 Variable Display: Users can conveniently view and monitor the variables used in their Python scripts, enhancing debugging and development processes.
 - **Python Shell Integration:** Python-Interpreter seamlessly integrates with Python shell, allowing users to execute single commands and view results promptly.
 
-![Output](https://github.com/gauravipatankar/Sem-IV-MPR-Python-Interpreter/assets/92073252/cbb4c606-967d-40eb-b82e-08a2e045b12c)
+<p align="center">
+  <img src="https://github.com/gauravipatankar/Sem-IV-MPR-Python-Interpreter/assets/92073252/cbb4c606-967d-40eb-b82e-08a2e045b12c" alt="Output" width="400px">
+</p>
